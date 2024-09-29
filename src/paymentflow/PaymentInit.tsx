@@ -10,7 +10,7 @@ export default function PaymentInit({
         <p className="text-sm text-white">Payment Initialized</p>
       </div>
       <div className="p-2">
-        <p className="text-2xl text-blue-600">${amount}</p>
+        <p className="text-2xl text-green-600">${amount}</p>
       </div>
       <CustomHandle type="source" position={Position.Right} />
     </div>

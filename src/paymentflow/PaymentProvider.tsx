@@ -17,7 +17,7 @@ export default function PaymentProvider({
   const { setNodes } = useReactFlow();
 
   return (
-    <div className="flex items-center bg-white border-2 border-blue-600 p-1 pb-1 pl-3 gap-2 rounded-3xl w-[140px]">
+    <div className="flex items-center bg-white border-2 border-green-600 p-1 pb-1 pl-3 gap-2 rounded-3xl w-[140px]">
       <div className="h-4 w-4">
         <img
           className="h-full w-full"
