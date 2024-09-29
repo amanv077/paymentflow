@@ -1,4 +1,4 @@
-import { PaymnentFlow } from "./paymentflow/PaymentFlow";
+import { PaymnentFlow } from "./paymentflow/PaymnentFlow";
 
 const App = () => {
   return <PaymnentFlow />;
